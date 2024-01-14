@@ -1,0 +1,3002 @@
+[
+	{
+		"ID": 1,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 2,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 3,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 4,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 5,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 6,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 7,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 8,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 9,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 10,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 11,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 12,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 13,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 14,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 15,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 16,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 17,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 18,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 19,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 20,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 21,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 22,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 23,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 24,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 25,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 26,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 27,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 28,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 29,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 30,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 31,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 32,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 33,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 34,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 35,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 36,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 37,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 38,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 39,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 40,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 41,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 42,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 43,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 44,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 45,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 46,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 47,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 48,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 49,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 50,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 51,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 52,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 53,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 54,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 55,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 56,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 57,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 58,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 59,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 60,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 61,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 62,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 63,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 64,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 65,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 66,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 67,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 68,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 69,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 70,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 71,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 72,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 73,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 74,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 75,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 76,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 77,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 78,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 79,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 80,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 81,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 82,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 83,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 84,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 85,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 86,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 87,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 88,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 89,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 90,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 91,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 92,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 93,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 94,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 95,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 96,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 97,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 98,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 99,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 100,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 101,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 102,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 103,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 104,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 105,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 106,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 107,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 108,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 109,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 110,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 111,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 112,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 113,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 114,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 115,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 116,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 117,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 118,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 119,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 120,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 121,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 122,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 123,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 124,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 125,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 126,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 127,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 128,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 129,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 130,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 131,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 132,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 133,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 134,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 135,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 136,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 137,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 138,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 139,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 140,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 141,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 142,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 143,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 144,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 145,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 146,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 147,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 148,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 149,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 150,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 151,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 152,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 153,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 154,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 155,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 156,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 157,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 158,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 159,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 160,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 161,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 162,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 163,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 164,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 165,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 166,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 167,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 168,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 169,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 170,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 171,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 172,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 173,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 174,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 175,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 176,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 177,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 178,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 179,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 180,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 181,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 182,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 183,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 184,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 185,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 186,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 187,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 188,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 189,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 190,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 191,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 192,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 193,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 194,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 195,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 196,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 197,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 198,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 199,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 200,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 201,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 202,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 203,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 204,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 205,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 206,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 207,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 208,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 209,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 210,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 211,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 212,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 213,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 214,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 215,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 216,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 217,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 218,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 219,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 220,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 221,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 222,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 223,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 224,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 225,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 226,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 227,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 228,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 229,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 230,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 231,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 232,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 233,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 234,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 235,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 236,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 237,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 238,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 239,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 240,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 241,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 242,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 243,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 244,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 245,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 246,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 247,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 248,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 249,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 250,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 251,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 252,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 253,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 254,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 255,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 256,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 257,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 258,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 259,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 260,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 261,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 262,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 263,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 264,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 265,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 266,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 267,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 268,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 269,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 270,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 271,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 272,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 273,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 274,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 275,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 276,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 277,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 278,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 279,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 280,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 281,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 282,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 283,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 284,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 285,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 286,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 287,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 288,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 289,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 290,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 291,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 292,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 293,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 294,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 295,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 296,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 297,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 298,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 299,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 300,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 301,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 302,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 303,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 304,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 305,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 306,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 307,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 308,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 309,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 310,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 311,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 312,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 313,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 314,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 315,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 316,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 317,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 318,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 319,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 320,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 321,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 322,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 323,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 324,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 325,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 326,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 327,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 328,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 329,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 330,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 331,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 332,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 333,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 334,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 335,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 336,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 337,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 338,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 339,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 340,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 341,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 342,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 343,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 344,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 345,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 346,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 347,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 348,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 349,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 350,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 351,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 352,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 353,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 354,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 355,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 356,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 357,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 358,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 359,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 360,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 361,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 362,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 363,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 364,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 365,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 366,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 367,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 368,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 369,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 370,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 371,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 372,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 373,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 374,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 375,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 376,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 377,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 378,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 379,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 380,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 381,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 382,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 383,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 384,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 385,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 386,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 387,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 388,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 389,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 390,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 391,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 392,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 393,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 394,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 395,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 396,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 397,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 398,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 399,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 400,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 401,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 402,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 403,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 404,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 405,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 406,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 407,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 408,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 409,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 410,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 411,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 412,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 413,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 414,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 415,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 416,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 417,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 418,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 419,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 420,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 421,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 422,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 423,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 424,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 425,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 426,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 427,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 428,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 429,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 430,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 431,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 432,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 433,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 434,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 435,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 436,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 437,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 438,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 439,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 440,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 441,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 442,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 443,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 444,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": 1
+	},
+	{
+		"ID": 445,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 446,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 447,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 448,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": "0"
+	},
+	{
+		"ID": 449,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 450,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 451,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 452,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 453,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 454,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 455,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 456,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 457,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 458,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 459,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 460,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 461,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 462,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 463,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 464,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 465,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 466,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 467,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 468,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 469,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 470,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 471,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 472,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 473,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 474,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 475,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 476,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 477,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 478,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 479,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 480,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 481,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 482,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 483,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 484,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 1,
+		"predavanja": 1
+	},
+	{
+		"ID": 485,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 486,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 487,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 5,
+		"predavanja": "0"
+	},
+	{
+		"ID": 488,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 489,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": 1
+	},
+	{
+		"ID": 490,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": 1
+	},
+	{
+		"ID": 491,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 3,
+		"predavanja": "0"
+	},
+	{
+		"ID": 492,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	},
+	{
+		"ID": 493,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": 1
+	},
+	{
+		"ID": 494,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 2,
+		"predavanja": "0"
+	},
+	{
+		"ID": 495,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": "0",
+		"predavanja": 1
+	},
+	{
+		"ID": 496,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 497,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 498,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 499,
+		"izvannastavna_aktivnost": 1,
+		"nepolozeni_ispiti": 4,
+		"predavanja": "0"
+	},
+	{
+		"ID": 500,
+		"izvannastavna_aktivnost": "0",
+		"nepolozeni_ispiti": 1,
+		"predavanja": "0"
+	}
+]
